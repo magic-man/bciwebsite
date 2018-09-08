@@ -37,6 +37,14 @@ ol, ul {
 	list-style: none;
 }
 
+img.article{
+	width: 100%;
+}
+
+.inline-block {
+   display: inline-block;
+}
+
 blockquote, q {
 	quotes: none;
 }
